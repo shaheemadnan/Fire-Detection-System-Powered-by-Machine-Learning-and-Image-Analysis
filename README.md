@@ -1,4 +1,5 @@
-![pic output 2](https://github.com/shaheemadnan/Fire-Detection-System-Powered-by-Machine-Learning-and-Image-Analysis/assets/114155368/7372fccc-479d-4346-b9e8-b9e2e609b65e)Title of the Project
+
+Title of the Project
 Fire Detection System Powered by Machine Learning and Image Analysis
 
 About
